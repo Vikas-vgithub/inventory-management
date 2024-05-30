@@ -25,7 +25,7 @@ Log in with the superuser credentials created during installation.
 Manage categories and items through the admin interface.
 2. Categories:
 
-Visit http://127.0.0.1:8000/categories/ to see a list of categories.
+Visit http://127.0.0.1:8000/ to see a list of categories.
 Create, update, and delete categories.
 3. Items:
 
